@@ -1,0 +1,4 @@
+../Core/Src/can.c:11:5:SAE_J1850_Calc	40	static
+../Core/Src/can.c:41:6:genMessage	8	static
+../Core/Src/can.c:53:6:CAN_Transmit	16	static
+../Core/Src/can.c:61:6:HAL_CAN_RxFifo1MsgPendingCallback	16	static
